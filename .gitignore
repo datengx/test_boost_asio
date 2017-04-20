@@ -1,0 +1,6 @@
+bin/
+*.bin
+*.png
+*.jgp
+*.o
+*~
